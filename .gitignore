@@ -1,0 +1,27 @@
+# Build artifacts
+bin/
+obj/
+publish/
+
+# SQLite database
+*.db
+
+# Visual Studio / VS Code
+*.user
+.vscode/
+.idea/
+
+# ASP.NET
+wwwroot/lib/
+appsettings.Development.json
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
