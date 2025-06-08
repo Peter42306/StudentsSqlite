@@ -11,7 +11,7 @@ This is a simple educational template project demonstrating how to build a basic
 - Basic student information (Name, Email, Phone) 
 - SQLite database integration
 - Clean folder structure (Controllers, Models, Views, Data)
-- Bootstrap-based layout (optional styling)
+- Bootstrap-based layout
 - No authentication/authorization
 
 ## Purpose
