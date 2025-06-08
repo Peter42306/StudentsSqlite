@@ -1,8 +1,8 @@
 # Students CRUD App (Template – ASP.NET Core MVC + SQLite)
 
-This is a simple educational template project demonstrating how to build a basic CRUD (Create, Read, Update, Delete) web application using:
+This is a simple educational template with a basic CRUD web application using:
 
-- ASP.NET Core MVC (.NET 8)
+- ASP.NET Core MVC
 - Entity Framework Core
 - SQLite database
 
