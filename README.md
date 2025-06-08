@@ -10,7 +10,6 @@ This is a simple educational template with a basic CRUD web application using:
 
 - Basic student information (Name, Email, Phone) 
 - SQLite database integration
-- Bootstrap-based layout
 - No authentication/authorization
 
 ## Purpose
